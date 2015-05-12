@@ -1,0 +1,1 @@
+This is the first tutorial for rails-3-2.railstutorial.org
